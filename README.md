@@ -20,9 +20,9 @@ Run the main program "`train_main.py`".
 
 `objective_func.py`: The sum-rate (loss) function; 
 
-`UW_gradient.py`: The gradients of the loss function with respect to U and W in the last layer; 
+`UW_gradient.py`: The gradients of the variables (U and W) in the last layer of the deep-unfolding neural network; 
 
-`UW_conj_gradient.py`: The conjugate gradients of the loss function with respect to U and W in the last layer; 
+`UW_conj_gradient.py`: The conjugate gradients of the variables (U and W) in the last layer of the deep-unfolding neural network; 
 
 `generate_channel.py`: Generate the channels; 
 
