@@ -33,14 +33,14 @@ def update_Vk(V, W, U, H, K, Nt, sigma):
     return V
 
 
-K = 4
+K = 30
 PT = 100
 sigma = 1
 epsilon = 1e-5
 d = 2
 Nr = 2
-Nt = 8
-Imax = 100  #最大迭代次数
+Nt = 64
+Imax = 100  #The maximum number of iterations
 err = float("inf")
 
 rate=[]
