@@ -30,7 +30,7 @@ Run the main program "`train_main.py`".
 
 # Blackbox CNN
 ## Data Prepareation
-Firstly, we run "`generate_data.m`" in the folder "`GenerateData`" to generate the training dataset, which consists of the inputs in the file "`Input_H.csv`" and the labels in the file "`Output_UW.csv`". Then, the two files should be copied into the folder "`DataSet`".
+Firstly, we run "`generate_data.m`" in the folder "`GenerateData`" to generate the training dataset, which consists of the inputs in the file "`Input_H.csv`" and the labels in the file "`Output_UW.csv`". The two files are generated in the folder "`mat`" and should be copied into the folder "`DataSet`".
  
 ## Training and Testing
 Run "`Blackbox CNN.py`", which generates four ".csv" files in the folder "`DataSet`". Finally, we run the file "`test_predict.m`" in the folder "`Test`" to see the sum-rate performance. Note that the file path in "`test_predict.m`" should be modified correspondingly.
