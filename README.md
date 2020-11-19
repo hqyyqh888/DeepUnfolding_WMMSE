@@ -3,7 +3,7 @@ This repository contains the entire code for our TWC work "Iterative Algorithm I
 
 For any reproduce, further research or development, please kindly cite our TWC Journal paper:
 
-`Q. Hu, Y. Cai, Q. Shi, K. Xu, G. Yu, and Z. Ding, “Iterative algorithm induced deep-unfolding neural networks: Precoding design for multiuser MIMO systems,” IEEE Trans. Wireless Commun., to be published.`
+`Q. Hu, Y. Cai, Q. Shi, K. Xu, G. Yu, and Z. Ding, “Iterative algorithm induced deep-unfolding neural networks: Precoding design for multiuser MIMO systems,” IEEE Trans. Wireless Commun., to be published, DOI: 10.1109/TWC.2020.3033334.`
 
 # Requirements
 The following versions have been tested: Python 3.6 + Tensorflow 1.12. But newer versions should also be fine.
