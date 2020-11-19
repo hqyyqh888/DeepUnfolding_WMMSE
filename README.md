@@ -36,4 +36,4 @@ Firstly, we run "`generate_data.m`" in the folder "`GenerateData`" to generate t
 Run "`Blackbox CNN.py`", which generates four ".csv" files in the folder "`DataSet`". Finally, we run the file "`test_predict.m`" in the folder "`Test`" to see the sum-rate performance. Note that the file path in "`test_predict.m`" should be modified correspondingly.
 
 # WMMSE 
-Run the main program "`WMMSE.py`". 
+Run the main program "`WMMSE.py`", which implements the iterative WMMSE algorithm.
