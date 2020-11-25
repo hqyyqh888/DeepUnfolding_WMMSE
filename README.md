@@ -24,9 +24,9 @@ Run the main program "`train_main.py`".
 
 `UW_conj_gradient.py`: The conjugate gradients of the variables (U and W) in the last layer of the deep-unfolding neural network; 
 
-`generate_channel.py`: Generate the complex Gaussian channels, which could also be modified to other channel models; 
+`generate_channel.py`: Generate the complex Gaussian channels, which could be modified to other channel models; 
 
-`test_model.py`: To test the model. 
+`test_model.py`: Import the trained model and test its performance. 
 
 # Blackbox CNN
 ## Data Prepareation
